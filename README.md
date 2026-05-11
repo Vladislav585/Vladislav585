@@ -1,5 +1,7 @@
 # 👋 Hi! I'm Vladislav
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5odGdxaGtucm91OTZrdWR6ZXRkd3VrZzdtZW02c2Y4Ym9xcGt3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j85I1w0kSVeA2PSULu/giphy.gif" >
+
 ## 🧑‍💻 About Me
 
 - 🎓 **Education:** MIREA — Field of study 02.03.02 (Fundamental Informatics and Information Technology)
