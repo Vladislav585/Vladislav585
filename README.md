@@ -25,9 +25,9 @@
 
 | Year | Hackathon | Challenge | My Role | Result |
 |------|-----------|-----------|---------|--------|
-| 2025 | IMOEX | Building an AI agent for autonomous trading | Quant Developer | Participation |
-| 2025 | Lenta | Computer Vision solution development | CV Engineer | Participating |
-| 2025 | X5 | Predicting RTO for pricing | Data Scientist | Participating |
+| 2026 | IMOEX | Building an AI agent for autonomous trading | Quant Developer | Participation |
+| 2026 | Lenta | Computer Vision solution development | CV Engineer | Participating |
+| 2026 | X5 | Predicting RTO for pricing | Data Scientist | Participating |
 
 ---
 
