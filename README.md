@@ -6,11 +6,11 @@
  <tr>
   <td>
    <ul>
-    <li>🎓 <strong>Education:</strong> RTU MIREA — "Artificial intelligence and machine learning"</li>
-    <li>🤖 <strong>Focus:</strong> ML Engineer & Data Science</li>
-    <li>🐍 <strong>Main stack:</strong> Python</li>
-    <li>📚 <strong>Currently learning:</strong> PyTorch, Docker</li>
-    <li>💼 <strong>Experience:</strong> Building neural networks in Python</li>
+    <li><strong>Education:</strong> RTU MIREA — "Artificial intelligence and machine learning"</li>
+    <li><strong>Focus:</strong> ML Engineer & Data Science</li>
+    <li><strong>Main stack:</strong> Python</li>
+    <li><strong>Currently learning:</strong> PyTorch, Docker</li>
+    <li><strong>Experience:</strong> Building neural networks in Python</li>
    </ul>
   </td>
   <td>
