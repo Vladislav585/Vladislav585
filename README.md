@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladislav585&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav585&layout=compact&theme=dark)
-
----
-
 ## 📫 Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vladosik585)
