@@ -1,27 +1,30 @@
-# 👋 Hi! I'm Vladislav
+### About Me
+```txt
+alias      Vladislav585  
+path       ML Engineer / Data Science  
+university RTU MIREA — AI & ML  
+foundation Python, PyTorch, Docker
+```
 
-## 🧑‍💻 About Me
+> I build neural networks that actually work. Participated in IMOEX, Lenta, and X5 hackathons — trading agents, computer vision, price prediction. Currently diving deeper into PyTorch and production-ready ML.
 
-<table>
+<table border="0">
  <tr>
-  <td>
-   <ul>
-    <li><strong>Education:</strong> RTU MIREA — "Artificial intelligence and machine learning"</li>
-    <li><strong>Focus:</strong> ML Engineer & Data Science</li>
-    <li><strong>Main stack:</strong> Python</li>
-    <li><strong>Currently learning:</strong> PyTorch, Docker</li>
-    <li><strong>Experience:</strong> Building neural networks in Python</li>
-   </ul>
+  <td style="padding-right: 30px; border: none;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTlhb3pkajF4OWJ6d2tibndxc2Jyb3dxMnNyY3Q4bm1mb3F0aTFpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUYdflBIMBje6l55tF/giphy.gif" width="160">
   </td>
-  <td>
-   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTlhb3pkajF4OWJ6d2tibndxc2Jyb3dxMnNyY3Q4bm1mb3F0aTFpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUYdflBIMBje6l55tF/giphy.gif">
+  <td style="border: none;">
+    AI & ML student at RTU MIREA<br/>
+    Building AI agent for autonomous trading<br/>
+    Learning PyTorch and Docker<br/>
+    Dream: algorithmic trading on stock markets
   </td>
  </tr>
 </table>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🏆 Hackathons & Competitions
+### Hackathons & Competitions
 
 | Year | Hackathon | Challenge | My Role | Result |
 |------|-----------|-----------|---------|--------|
@@ -29,9 +32,10 @@
 | 2026 | Lenta | Computer Vision solution development | CV Engineer | Participating |
 | 2026 | X5 | Predicting RTO for pricing | Data Scientist | Participating |
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🛠️ My Skills
+
+### My Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> &nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> &nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> &nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-## Data Science Stack
+### Data Science Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> &nbsp; NumPy &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> &nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> &nbsp; TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> &nbsp; Jupyter
 
-## Tools
+### Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> &nbsp; Docker &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> &nbsp; Git &nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,9 +61,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> &nbsp; Linux &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> &nbsp; Bash
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📫 Contact Me
+
+### Contact Me
 
 <table>
   <tr>
@@ -78,6 +83,6 @@
   </tr>
 </table>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 *🚀 Constantly evolving in ML & Data Science*
