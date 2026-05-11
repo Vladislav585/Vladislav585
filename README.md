@@ -1,14 +1,23 @@
 # 👋 Hi! I'm Vladislav
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5odGdxaGtucm91OTZrdWR6ZXRkd3VrZzdtZW02c2Y4Ym9xcGt3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j85I1w0kSVeA2PSULu/giphy.gif" >
-
 ## 🧑‍💻 About Me
 
-- 🎓 **Education:** MIREA — Field of study 02.03.02 (Fundamental Informatics and Information Technology)
-- 🤖 **Focus:** ML Engineer & Data Science
-- 🐍 **Main stack:** Python
-- 📚 **Currently learning:** PyTorch, Docker
-- 💼 **Experience:** Building simple neural networks in Python
+<table>
+ <tr>
+  <td>
+   <ul>
+    <li>🎓 <strong>Education:</strong> MIREA — Field of study 02.03.02</li>
+    <li>🤖 <strong>Focus:</strong> ML Engineer & Data Science</li>
+    <li>🐍 <strong>Main stack:</strong> Python</li>
+    <li>📚 <strong>Currently learning:</strong> PyTorch, Docker</li>
+    <li>💼 <strong>Experience:</strong> Building simple neural networks in Python</li>
+   </ul>
+  </td>
+  <td>
+   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTlhb3pkajF4OWJ6d2tibndxc2Jyb3dxMnNyY3Q4bm1mb3F0aTFpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUYdflBIMBje6l55tF/giphy.gif">
+  </td>
+ </tr>
+</table>
 
 ---
 
@@ -24,31 +33,50 @@
 
 ## 🛠️ My Skills
 
-**Core Languages & Tools:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> &nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> &nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> &nbsp; Java &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> &nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Data Science Stack:**
+## Data Science Stack
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> &nbsp; NumPy &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> &nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> &nbsp; Matplotlib &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> &nbsp; PyTorch &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> &nbsp; TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> &nbsp; Jupyter
 
-**Tools:**
+## Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> &nbsp; Docker &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> &nbsp; Git &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> &nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/> &nbsp; PyCharm &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> &nbsp; Linux &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> &nbsp; Bash
 
 ---
 
 ## 📫 Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vladosik585)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vladislav585)
+<table>
+  <tr>
+    <td width="200" align="center">
+      <img src="https://media.giphy.com/media/eIUpSyzwGp0YhAMTKr/giphy.gif" width="180">
+    </td>
+    <td align="left" valign="middle">
+      <a href="https://t.me/Vladosik585">
+        <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="50">
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Vladislav585">
+        <img src="https://img.icons8.com/color/48/000000/github.png" width="50">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
