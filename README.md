@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VtdzRibWljNDdwcGtyamZmbTdhaG5xYmJlcHp4aHJxYXN3ZTJjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfSy0mRAFAeZHY2w5e/giphy.gif" height="200" width="100%">
+</p>
+
 ### IDENTITY REDACTED
 ```txt
 alias      Vladislav585  
