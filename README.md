@@ -36,7 +36,7 @@ foundation Python, PyTorch, Docker
 |------|-----------|-----------|---------|--------|
 | 2026 | IMOEX | Building an AI agent for autonomous trading | Quant Developer | Top 50 |
 | 2026 | ArenaData | Automatic detection of personal data | NLP| Top 6 |
-| 2026 | X5 | Predicting RTO for pricing | Data Scientist | Process |
+| 2026 | X5 | Predicting RTO for pricing | Data Scientist | Top 20 |
 
 ⊱ ─────────────────────────────── {.⋅ ✯ ⋅.} ──────────────────────────────── ⊰
 
