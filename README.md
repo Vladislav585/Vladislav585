@@ -20,9 +20,9 @@ foundation Python, PyTorch, Docker
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTlhb3pkajF4OWJ6d2tibndxc2Jyb3dxMnNyY3Q4bm1mb3F0aTFpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUYdflBIMBje6l55tF/giphy.gif" width="120">
     </td>
     <td style="border: none; vertical-align: middle; width: 100%;">
-      AI & ML student at RTU MIREA<br/>
+      Quant & ML student at RTU MIREA<br/>
       Building AI agent for autonomous trading<br/>
-      Learning PyTorch and Docker<br/>
+      Learning Quantitative Finance and Algorithmic Trading<br/>
       Dream: algorithmic trading on stock markets
     </td>
   </tr>
