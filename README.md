@@ -5,7 +5,7 @@
 ### IDENTITY REDACTED
 ```txt
 alias      Vladislav585  
-path       ML Engineer / Data Science  
+path       Quant Researcher / Developer
 university RTU MIREA — AI & ML  
 foundation Python, PyTorch, Docker
 ```
