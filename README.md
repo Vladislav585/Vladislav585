@@ -87,10 +87,6 @@ tools      Docker · Git · VS Code · Linux · Bash · PyCharm
       <a href="https://t.me/Vladosik585">
         <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="50">
       </a>
-      <br/><br/>
-      <a href="https://github.com/Vladislav585">
-        <img src="https://img.icons8.com/color/48/000000/github.png" width="50">
-      </a>
     </td>
   </tr>
 </table>
