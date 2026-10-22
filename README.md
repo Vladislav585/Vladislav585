@@ -21,10 +21,10 @@ focus       Systematic Trading · Quant Finance
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTlhb3pkajF4OWJ6d2tibndxc2Jyb3dxMnNyY3Q4bm1mb3F0aTFpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUYdflBIMBje6l55tF/giphy.gif" width="120">
     </td>
     <td style="border: none; vertical-align: middle; width: 100%;">
-      Quant & ML student at RTU MIREA<br/>
-      Research and validate systematic trading strategies using historical market data.<br>
-      Improve backtesting methodologies, portfolio optimization, and risk management.<br>
-      Develop practical tools for quantitative research and financial analysis.
+      Quant & ML student at RTU MIREA<br/>  
+      Working with MOEX market data and systematic strategies<br>
+      Walk-forward testing · Out-of-sample validation · Risk-adjusted metrics<br>
+      Turning financial data into testable research ideas
     </td>
   </tr>
 </table>
@@ -77,9 +77,9 @@ tools      Git · Docker · Linux · VS Code
 
 ### HIGH PRIORITY
 
- Research and validate systematic trading strategies using historical market data.<br>
- Improve backtesting methodologies, portfolio optimization, and risk management.<br>
- Develop practical tools for quantitative research and financial analysis.
+ Develop and validate systematic trading strategies.<br>
+ Improve portfolio optimization and risk-adjusted performance.<br>
+ Build reliable tools for quantitative financial research.
 
 ⊱ ─────────── {.⋅ ✯ ⋅.} ─────────── ⊰
 
