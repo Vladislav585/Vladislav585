@@ -5,12 +5,13 @@
 ### IDENTITY REDACTED
 ```txt
 alias      Vladislav585  
-path       Quant Researcher / Developer
+path       Quant Researcher
 university RTU MIREA — AI & ML  
-foundation Python, PyTorch, Docker
+foundation Python · Statistics · Machine Learning
+focus       Systematic Trading · Quant Finance
 ```
 
-> I build neural networks that actually work. Participated in IMOEX, Lenta, and X5 hackathons — trading agents, computer vision, price prediction. Currently diving deeper into PyTorch and production-ready ML.
+> I explore financial markets through data, statistics, and code. My work focuses on developing and backtesting trading strategies, analyzing financial time series, and building tools for portfolio research and optimization.
 
 ---
 
@@ -21,22 +22,35 @@ foundation Python, PyTorch, Docker
     </td>
     <td style="border: none; vertical-align: middle; width: 100%;">
       Quant & ML student at RTU MIREA<br/>
-      Building AI agent for autonomous trading<br/>
-      Learning Quantitative Finance and Algorithmic Trading<br/>
-      Dream: algorithmic trading on stock markets
+      Research and validate systematic trading strategies using historical market data.<br>
+      Improve backtesting methodologies, portfolio optimization, and risk management.<br>
+      Develop practical tools for quantitative research and financial analysis.
     </td>
   </tr>
 </table>
 
-⊱ ─────────────────── {.⋅ ✯ ⋅.} ────────────────── ⊰
+⊱ ────────────────────────────── {.⋅ ✯ ⋅.} ───────────────────────────── ⊰
+
+### PROJECT ARCHIVE
+
+| Project | What I work on |
+|---|---|
+| <a href="https://github.com/Vladislav585/sber-moex-trading-strategy"><img alt="SBER MOEX Trading Strategy" src="https://img.shields.io/badge/SBER%20MOEX%20Trading%20Strategy-30363d?style=flat-square&logo=github&logoColor=white" /></a> | Historical market data, technical signals, backtesting, strategy parameters, and risk metrics. |
+| <a href="https://github.com/Vladislav585/AI-Trading-Agent-Trading-Core"><img alt="AI Trading Agent — Quantitative Core" src="https://img.shields.io/badge/AI%20Trading%20Agent%20%E2%80%94%20Quantitative%20Core-30363d?style=flat-square&logo=github&logoColor=white" /></a> | Multi-timeframe market analysis, signal scoring, and trade risk rules; developed for the MOEX AI Hackathon. |
+| <a href="https://github.com/Vladislav585/Quant_Learning_path"><img alt="Quant Finance Learning Path" src="https://img.shields.io/badge/Quant%20Finance%20Learning%20Path-30363d?style=flat-square&logo=github&logoColor=white" /></a> | A learning roadmap covering strategy evaluation, time series, backtesting, risk, and portfolio optimization. |
+| <a href="https://github.com/Vladislav585/investment-portfolio-ml"><img alt="MOEX Investment Portfolio" src="https://img.shields.io/badge/MOEX%20Investment%20Portfolio-30363d?style=flat-square&logo=github&logoColor=white" /></a> | MOEX stock portfolio construction, risk-based optimization, walk-forward backtesting, and out-of-sample evaluation. |
+
+*Trading research and historical backtest results are experimental, not evidence of future or live profitability.*
+
+⊱ ──────────────────────────────── {.⋅ ✯ ⋅.} ───────────────────────────────── ⊰
 
 ### FIELD TESTS
 
-| Year | Hackathon | Challenge | My Role | Result |
-|------|-----------|-----------|---------|--------|
-| 2026 | IMOEX | Building an AI agent for autonomous trading | Quant Developer | Top 50 |
-| 2026 | ArenaData | Automatic detection of personal data | NLP| Top 6 |
-| 2026 | X5 | Predicting RTO for pricing | Data Scientist | Top 20 |
+| Year | Hackathon | Challenge | Focus | Result |
+|---|---|---|---|---|
+| 2026 | <a href="https://github.com/Vladislav585/AI-Trading-Agent-Trading-Core"><img alt="MOEX AI Hackathon" src="https://img.shields.io/badge/MOEX%20AI%20Hackathon-30363d?style=flat-square&logo=github&logoColor=white" /></a> | Autonomous trading agent | Quant / Strategy | Top 50 |
+| 2026 | <a href="https://github.com/Vladislav585/Automatic-detection-of-personal-data-ArenaData-"><img alt="ArenaData" src="https://img.shields.io/badge/ArenaData-30363d?style=flat-square&logo=github&logoColor=white" /></a> | Personal data detection | ML | Top 6 |
+| 2026 | <a href="https://github.com/Vladislav585/X5-Pyaterochka-RTO-forecast"><img alt="X5" src="https://img.shields.io/badge/X5-30363d?style=flat-square&logo=github&logoColor=white" /></a> | Retail turnover forecasting | Data Science | Top 20 |
 
 ⊱ ─────────────────────────────── {.⋅ ✯ ⋅.} ──────────────────────────────── ⊰
 
@@ -44,35 +58,28 @@ foundation Python, PyTorch, Docker
 ### POWER SET
 
 ```text
-languages  Python · SQL · Java · JavaScript 
-data       NumPy · Pandas · Matplotlib · PyTorch · TensorFlow  
-tools      Docker · Git · VS Code · Linux · Bash · PyCharm
+core       Python · SQL · NumPy · Pandas · SciPy · Matplotlib
+quant      Financial Time Series · Backtesting · Risk Metrics · vectorbt
+ml         scikit-learn · CatBoost · PyTorch · TensorFlow
+tools      Git · Docker · Linux · VS Code
 ```
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="38" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" alt="Git" />
 </p>
 ⊱ ──────────────────────────────── {.⋅ ✯ ⋅.} ───────────────────────────────── ⊰
 
 ### HIGH PRIORITY
 
-  Deploy first profitable trading bot</br>
-  Build portfolio that lands me a job</br>
-  Building trading strategies for stock market
+ Research and validate systematic trading strategies using historical market data.<br>
+ Improve backtesting methodologies, portfolio optimization, and risk management.<br>
+ Develop practical tools for quantitative research and financial analysis.
 
 ⊱ ─────────── {.⋅ ✯ ⋅.} ─────────── ⊰
 
