@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="400" viewBox="0 0 1300 400" role="img" aria-label="Satirical finance banner: a hedge fund manager rides a collapsing red candlestick rocket toward a tombstone for a $100 deposit">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1016"/><stop offset=".58" stop-color="#0D1A1A"/><stop offset="1" stop-color="#18131B"/></linearGradient>
+  <radialGradient id="redHalo"><stop stop-color="#A92C37" stop-opacity=".42"/><stop offset="1" stop-color="#A92C37" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="45" height="38" patternUnits="userSpaceOnUse"><path d="M45 0H0V38" fill="none" stroke="#263A3C" stroke-width=".8" opacity=".55"/></pattern>
+  <linearGradient id="rocket" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#FF6B79"/><stop offset=".55" stop-color="#E83D58"/><stop offset="1" stop-color="#96253D"/></linearGradient>
+  <linearGradient id="flame" x1="0" x2="1"><stop stop-color="#DE4253"/><stop offset=".53" stop-color="#FFAD4F"/><stop offset="1" stop-color="#FFF09B"/></linearGradient>
+  <filter id="shadow" x="-40%" y="-60%" width="180%" height="220%"><feGaussianBlur in="SourceAlpha" stdDeviation="7"/><feOffset dy="6"/><feComponentTransfer><feFuncA type="linear" slope=".55"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+  <clipPath id="clip"><rect width="1300" height="400"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1300" height="400" fill="url(#bg)"/>
+<rect width="1300" height="400" fill="url(#grid)"/>
+<ellipse cx="1050" cy="235" rx="380" ry="270" fill="url(#redHalo)"/>
+<!-- Financial data texture -->
+<g stroke="#526D63" stroke-width="2" opacity=".45"><path d="M705 88v38m0-24h18v17h-18z M757 81v45m0-13h18v21h-18z M815 125v54m0-39h18v29h-18z M875 149v60m0-47h18v37h-18z M945 178v72m0-58h18v45h-18z M1017 224v77m0-65h18v45h-18z M1104 278v60m0-46h18v37h-18z" fill="#EA5269" stroke="#F06D7F"/></g>
+<path d="M708 106L765 120L823 154L884 181L952 211L1026 260L1115 311L1180 358" fill="none" stroke="#F05C6B" stroke-width="5" opacity=".25" stroke-dasharray="9 8"/>
+<!-- Divider separator -->
+<path d="M641 53V346" stroke="#486156" stroke-width="1" stroke-dasharray="4 9" opacity=".45"/>
+<!-- Text block -->
+<rect x="52" y="40" width="415" height="37" rx="7" fill="#3B1825" stroke="#B84A5E" stroke-width="1.5"/>
+<circle cx="70" cy="58" r="5" fill="#FF6375"/>
+<text x="85" y="64" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFB0BB" letter-spacing=".7">HEDGE FUND · NEGATIVE EQUITY DIVISION</text>
+<text x="49" y="169" font-family="DejaVu Sans, Arial, sans-serif" font-size="62" font-weight="900" fill="#F5F7F5" letter-spacing="-1.6">VLADISLAV585</text>
+<path d="M54 186H554" stroke="#4D6F62" stroke-width="2"/>
+<text x="53" y="230" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#B9DDC7" letter-spacing="1.1">MANAGING ASSETS</text>
+<text x="52" y="280" font-family="DejaVu Sans, Arial, sans-serif" font-size="38" font-weight="900" fill="#EDF3EE">FROM <tspan fill="#7EE7AB">$100</tspan> TO <tspan fill="#FF687D">$0</tspan></text>
+<rect x="52" y="319" width="238" height="32" rx="5" fill="#14281F" stroke="#306348"/>
+<text x="66" y="340" font-family="DejaVu Sans Mono, monospace" font-size="13.5" fill="#9AD4AB">AUM: $0.00  |  LIVE</text>
+<text x="52" y="375" font-family="DejaVu Sans Mono, monospace" font-size="12.5" fill="#7C928B">EST. 2026   /   ALPHA MISSING, CONFIDENCE HIGH</text>
+<!-- Comic bubble "TO THE MOON" despite crash -->
+<g filter="url(#shadow)">
+<path d="M1041 32Q1022 32 1022 51V87Q1022 105 1042 105H1211Q1228 105 1228 87V50Q1228 32 1211 32Z" fill="#F3F6E9" stroke="#0B1113" stroke-width="4"/>
+<path d="M1071 101L1056 122L1100 101" fill="#F3F6E9" stroke="#0B1113" stroke-width="4"/>
+<path d="M1070 101H1103" stroke="#F3F6E9" stroke-width="6"/>
+<text x="1125" y="62" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="900" fill="#182121">TO THE MOON!</text>
+<text x="1125" y="87" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#D83C57">(wrong direction)</text>
+</g>
+<!-- Smoke and catastrophic background -->
+<g opacity=".45"><path d="M1032 278q32-39 68-6q23-14 40 3q22 0 25 25q26 7 24 32H1013z" fill="#7B2A36"/><path d="M963 319q-10-28 16-34q12-30 41-13q30-15 50 13q27-4 38 31z" fill="#B33B46"/></g>
+<!-- Main red rocket (diagonally diving) and CEO riding -->
+<g transform="translate(895 208) rotate(29)" filter="url(#shadow)">
+  <!-- propulsion flames, past-future becoming regret -->
+  <path d="M-108 25L-186 13L-157 45L-208 62L-147 71L-175 89L-103 77Z" fill="#FF653A" opacity=".85"/>
+  <path d="M-115 34L-169 34L-147 51L-180 61L-148 65L-160 77L-110 69Z" fill="#FFC15D"/>
+  <path d="M-114 45L-153 47L-133 56L-163 61L-116 67Z" fill="#FFF0A2"/>
+  <rect x="-115" y="20" width="236" height="69" rx="15" fill="url(#rocket)" stroke="#81243B" stroke-width="5"/>
+  <path d="M118 20L186 55L118 89Z" fill="#FD5872" stroke="#81243B" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="-126" y="13" width="20" height="84" rx="4" fill="#AE2F46" stroke="#6A2738" stroke-width="3"/>
+  <path d="M-72 25V84 M35 25V85" stroke="#FFB4B3" stroke-width="2" opacity=".35"/>
+  <path d="M-34 65L-17 45L3 64L24 45L47 61" fill="none" stroke="#FFCDD1" stroke-width="4" stroke-linecap="round"/>
+  <text x="67" y="65" font-family="DejaVu Sans,Arial,sans-serif" font-weight="900" font-size="22" fill="#FFFFFF" text-anchor="middle">-100%</text>
+  <!-- riding person torso -->
+  <path d="M-42 13L-44-32Q-26-52 9-42L26 8Z" fill="#2C4052" stroke="#111D2B" stroke-width="4"/>
+  <path d="M-13-37L-3-8L-22 0L-29-30Z" fill="#F8F5E8"/>
+  <path d="M-23-35L-18-14L-27-1L-33-16Z" fill="#F05762"/>
+  <!-- legs in very bad professional posture -->
+  <path d="M0-2Q22 13 36 0L76-14" fill="none" stroke="#2B3446" stroke-width="19" stroke-linecap="round"/>
+  <path d="M-22 0Q-23 18 0 31L55 36" fill="none" stroke="#273444" stroke-width="18" stroke-linecap="round"/>
+  <path d="M67-16l22-10" stroke="#101922" stroke-width="12" stroke-linecap="round"/>
+  <path d="M52 36l29-2" stroke="#101922" stroke-width="12" stroke-linecap="round"/>
+  <!-- head -->
+  <path d="M-27-42v-15h25v18" fill="#D99C77"/>
+  <ellipse cx="-17" cy="-76" rx="31" ry="36" fill="#F3B88A" stroke="#7C4F3F" stroke-width="3"/>
+  <!-- hair combed like wall street -->
+  <path d="M-48-77Q-60-112-25-113Q7-125 16-96L11-81Q-14-91-31-98Z" fill="#352A2D"/>
+  <path d="M-42-99Q-22-111 1-97" stroke="#63524A" stroke-width="3" fill="none"/>
+  <!-- black shades -->
+  <path d="M-44-83l24 2-1 15-20-3z M-11-81l25-4-2 16-21 3z" fill="#131C24" stroke="#090F15" stroke-width="3"/>
+  <path d="M-19-79l8-1" fill="none" stroke="#080F19" stroke-width="4"/>
+  <!-- grin: catastrophic optimism -->
+  <path d="M-29-55Q-15-45 1-58Q-13-46-29-55Z" fill="#812E38" stroke="#7B3E35" stroke-width="2"/>
+  <path d="M-26-55Q-14-50-3-56" stroke="#FFFFFF" stroke-width="4"/>
+  <!-- left arm waving paper -->
+  <path d="M-32-30Q-73-14-84-44L-93-70" stroke="#2E4050" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <circle cx="-93" cy="-74" r="10" fill="#F1B48B"/>
+  <!-- sheet investment advice flying -->
+  <g transform="translate(-117 -127) rotate(-12)">
+  <rect width="84" height="53" rx="3" fill="#E3E8DE" stroke="#97A39D" stroke-width="2"/>
+  <text x="42" y="17" font-family="DejaVu Sans,Arial,sans-serif" font-size="9.5" font-weight="900" text-anchor="middle" fill="#922A43">RISK PLAN</text>
+  <path d="M11 28H65M11 35H57M11 42H48" stroke="#82948B" stroke-width="3"/>
+  <path d="M7 9L75 47" stroke="#D14451" stroke-width="4"/>
+  </g>
+  <!-- right arm thumbs up -->
+  <path d="M18-31Q48-45 65-70" stroke="#2C4050" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M62-74q-2-9 6-11l7 6 4-22q4-9 11-1l-1 23q13-4 14 6q0 16-18 19z" fill="#F0B38C" stroke="#99624F" stroke-width="2"/>
+</g>
+<!-- tombstone at destination -->
+<g transform="translate(1111 264)" filter="url(#shadow)">
+  <ellipse cx="66" cy="108" rx="102" ry="15" fill="#111717" opacity=".85"/>
+  <path d="M10 112V44Q10 0 62 0Q114 0 114 44V112Z" fill="#8E9695" stroke="#475456" stroke-width="6"/>
+  <path d="M20 99V45Q20 12 62 12Q103 12 103 44V99" fill="none" stroke="#BCC3B9" stroke-width="4" opacity=".5"/>
+  <text x="62" y="50" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="900" fill="#1E2B2A">R.I.P.</text>
+  <text x="62" y="80" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="900" fill="#222D2C">$100</text>
+  <text x="62" y="97" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="10" font-weight="700" fill="#3B4A48">DEPOSIT</text>
+  <path d="M2 112h119" stroke="#384845" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- confetti from liquidation -->
+<g fill="none" stroke-linecap="round" stroke-width="4"><path d="M1122 188l-6-11 M1198 188l6-13 M1239 232l12-4 M1040 354l-11 7 M1200 241l4 6" stroke="#FFB35A"/><path d="M1155 163l8-9 M1255 317l8 7 M1080 328l-9-4" stroke="#6DEAA6"/></g>
+</g>
+</svg>
